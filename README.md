@@ -31,7 +31,7 @@
       <li>Little-penguin-1: <a href="https://projects.intra.42.fr/projects/42cursus-little-penguin-1">project's page on 42 website</a></li>
       <li>kfs-1: <a href="https://projects.intra.42.fr/projects/42cursus-kfs-1">project's page on 42 website</a></li>
       <li>libasm: <a href="https://projects.intra.42.fr/projects/libasm">project's page on 42 website</a></li>
-      <li>drivers and interupts: <a href="https://projects.intra.42.fr/projects/42cursus-drivers-and-interrupts">project's page on 42 website</a></li]
+      <li>drivers and interupts: <a href="https://projects.intra.42.fr/projects/42cursus-drivers-and-interrupts">project's page on 42 website</a></li>
     </ul>
     <h1>Administration système</h1>
     <ul>
