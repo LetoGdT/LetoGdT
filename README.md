@@ -12,8 +12,8 @@
 |  115/100  |  100/100  |  101/100  |  100/100  |  113/100  |  98/100  |
   
 |[Pipex](https://github.com/LetoGdT/pipex) | [Philosophers](https://github.com/LetoGdT/philo) | [minishell](https://github.com/LetoGdT/minishell) | [NetPractice] | [Inception](https://github.com/LetoGdT/ft_inception)|
-|-----------|-----------|-----------|-----------|-----------|-----------|
-|  100/100  |  125/100  |  101/100  |  100/100   |  100/100  |  100/100  |
+|-----------|-----------|-----------|-----------|-----------|
+|  100/100  |  125/100  |  101/100  |  100/100   |  100/100  |
 
 | [CPP 00](https://github.com/aleyra/CPP-Module-00) | [CPP 01](https://github.com/aleyra/CPP-Module-01) | [CPP 02](https://github.com/aleyra/CPP-Module-02) | [CPP 03](https://github.com/aleyra/CPP-Module-03) | [CPP 04](https://github.com/aleyra/CPP-Module-04) | [CPP 05](https://github.com/aleyra/CPP-Module-05) | [CPP 06](https://github.com/aleyra/CPP-Module-06) | [CPP 07](https://github.com/aleyra/CPP-Module-07) | [CPP 08](https://github.com/aleyra/CPP-Module-08) | 
 |-------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -49,8 +49,6 @@
       <li>ft_ssl_md5: <a href="https://projects.intra.42.fr/projects/42cursus-ft_ssl_md5">project's page on 42 website</a></li>
       <li>ft_malcolm: <a href="https://projects.intra.42.fr/projects/ft_malcolm">project's page on 42 website</a></li>
     </ul>
-    <h1>Others</h1>
-      <li>ft_malcolm: <a href="https://projects.intra.42.fr/projects/ft_malcolm">project's page on 42 website</a></li>
   </div>
 </div>
 <!--
