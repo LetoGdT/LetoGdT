@@ -47,7 +47,6 @@
       <li>ft_ssl_md5: <a href="https://projects.intra.42.fr/projects/42cursus-ft_ssl_md5">project's page on 42 website</a></li>
       <li>ft_malcolm: <a href="https://projects.intra.42.fr/projects/ft_malcolm">project's page on 42 website</a></li>
     </ul>
-  </div>
 </div>
 <!--
 
