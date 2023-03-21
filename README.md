@@ -11,7 +11,7 @@
 |-----------|-----------|-----------|-----------|-----------|-----------|
 |  115/100  |  100/100  |  101/100  |  100/100  |  113/100  |  98/100  |
   
-|[Pipex](https://github.com/LetoGdT/pipex) | [Philosophers](https://github.com/LetoGdT/philo) | [minishell](https://github.com/LetoGdT/minishell) | [NetPractice] | [Inception] (https://github.com/LetoGdT/ft_inception)
+|[Pipex](https://github.com/LetoGdT/pipex) | [Philosophers](https://github.com/LetoGdT/philo) | [minishell](https://github.com/LetoGdT/minishell) | [NetPractice] | [Inception](https://github.com/LetoGdT/ft_inception)
 |-----------|-----------|-----------|-----------|-----------|-----------|
 |  100/100  |  125/100  |  101/100  |  100/100   |  100/100  |  100/100  |
 
