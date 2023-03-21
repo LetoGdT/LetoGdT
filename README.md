@@ -15,9 +15,9 @@
 |-----------|-----------|-----------|-----------|-----------|
 |  100/100  |  125/100  |  101/100  |  100/100   |  100/100  |
 
-| [CPP 00](https://github.com/aleyra/CPP-Module-00) | [CPP 01](https://github.com/aleyra/CPP-Module-01) | [CPP 02](https://github.com/aleyra/CPP-Module-02) | [CPP 03](https://github.com/aleyra/CPP-Module-03) | [CPP 04](https://github.com/aleyra/CPP-Module-04) | [CPP 05](https://github.com/aleyra/CPP-Module-05) | [CPP 06](https://github.com/aleyra/CPP-Module-06) | [CPP 07](https://github.com/aleyra/CPP-Module-07) | [CPP 08](https://github.com/aleyra/CPP-Module-08) | 
+| [CPP 00](https://github.com/LetoGdT/piscine-cpp/tree/master/cpp00) | [CPP 01](https://github.com/LetoGdT/piscine-cpp/tree/master/cpp01) | [CPP 02](https://github.com/LetoGdT/piscine-cpp/tree/master/cpp02) | [CPP 03](https://github.com/LetoGdT/piscine-cpp/tree/master/cpp03) | [CPP 04](https://github.com/LetoGdT/piscine-cpp/tree/master/cpp04) | [CPP 05](https://github.com/LetoGdT/piscine-cpp/tree/master/cpp05) | [CPP 06](https://github.com/LetoGdT/piscine-cpp/tree/master/cpp06) | [CPP 07](https://github.com/LetoGdT/piscine-cpp/tree/master/cpp07) | [CPP 08](https://github.com/LetoGdT/piscine-cpp/tree/master/cpp08) | 
 |-------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| 95/100 | 100/100 | 80/100 | 100/100 | 100/100 | 100/100 | 100/100 | 100/100 | 100/100 |
+| 100/100 | 95/100 | 80/100 | 100/100 | 100/100 | 100/100 | 100/100 | 100/100 | 100/100 |
   
 |[ft_irc](https://github.com/Chaosum/ft_irc)|[ft_containers](https://github.com/LetoGdT/containers)[ft_transcendence](https://github.com/LetoGdT/transcendence)|
 |------------|------------|------------|
