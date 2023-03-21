@@ -19,7 +19,7 @@
 |-------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | 100/100 | 95/100 | 80/100 | 100/100 | 100/100 | 100/100 | 100/100 | 100/100 | 100/100 |
   
-|[ft_irc](https://github.com/Chaosum/ft_irc)|[ft_containers](https://github.com/LetoGdT/containers)|[ft_transcendence](https://github.com/LetoGdT/transcendence)|
+|[ft_irc](https://github.com/Chaosum/ft_irc)|[ft_containers](https://github.com/LetoGdT/containers) | [ft_transcendence](https://github.com/LetoGdT/transcendence)|
 |------------|------------|------------|
 | 125/100 | 100/100 | 100 / 100 |
 
