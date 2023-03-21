@@ -3,8 +3,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LetoGdT&show_icons=true&locale=en&layout=compact" alt="" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LetoGdT&show_icons=true&locale=en" alt="" height="35%" width="35%" /></p>
 
-<p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl1p78ilq003509ldje8uuiac/stats?cursusId=21&coalitionId=50"/></p>
-<div align='center'>
   <h3>42 common core projects</h3>
   
 |[libft](https://github.com/LetoGdT/libft) | [get_next_line](https://github.com/LetoGdT/get_next_line) | [ft_printf](https://github.com/LetoGdT/ft_printf) | netwhat | [miniRT](https://github.com/LetoGdT/miniRT)| [push_swap](https://github.com/LetoGdT/push_swap)|
