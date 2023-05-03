@@ -41,7 +41,7 @@
     </ul>
     <h1>Sécurité</h1>
     <ul>
-      <li>Darkly: <a href="https://projects.intra.42.fr/projects/42cursus-darkly">project's page on 42 website</a></li>
+      <li>Darkly: <a href="https://github.com/aleyra/Darkly">project's answers</a> 125/100</li>
       <li>Snow Crash: <a href="https://projects.intra.42.fr/projects/42cursus-snow-crash">project's page on 42 website</a></li>
       <li>rainfall: <a href="https://projects.intra.42.fr/projects/42cursus-rainfall">project's page on 42 website</a></li>
       <li>ft_ssl_md5: <a href="https://projects.intra.42.fr/projects/42cursus-ft_ssl_md5">project's page on 42 website</a></li>
