@@ -27,10 +27,10 @@
   <h2>Titre RNCP niveau 7 Expert en Architecture Informatique spécialité Système d'information et réseaux : working on it</h2>
     <h1>Unix et kernel</h1>
     <ul>
-      <li>ft_linux: <a href="https://projects.intra.42.fr/projects/42cursus-ft_linux">project's page on 42 website</a></li>
+      <li>ft_linux: <a href="https://projects.intra.42.fr/projects/42cursus-ft_linux">project's page on 42 website</a> 100/100</li>
       <li>Little-penguin-1: <a href="https://projects.intra.42.fr/projects/42cursus-little-penguin-1">project's page on 42 website</a></li>
       <li>kfs-1: <a href="https://projects.intra.42.fr/projects/42cursus-kfs-1">project's page on 42 website</a></li>
-      <li>libasm: <a href="https://projects.intra.42.fr/projects/libasm">project's page on 42 website</a></li>
+      <li>libasm: <a href="https://github.com/LetoGdT/ft_libasm">project's page on 42 website</a> 100/100</li>
       <li>drivers and interupts: <a href="https://projects.intra.42.fr/projects/42cursus-drivers-and-interrupts">project's page on 42 website</a></li>
     </ul>
     <h1>Administration système</h1>
@@ -42,8 +42,8 @@
     <h1>Sécurité</h1>
     <ul>
       <li>Darkly: <a href="https://github.com/aleyra/Darkly">project's answers</a> 125/100</li>
-      <li>Snow Crash: <a href="https://projects.intra.42.fr/projects/42cursus-snow-crash">project's page on 42 website</a></li>
-      <li>rainfall: <a href="https://projects.intra.42.fr/projects/42cursus-rainfall">project's page on 42 website</a></li>
+      <li>Snow Crash: <a href="https://github.com/Chaosum/42-snowcrash">project's page on 42 website</a> 125/100</li>
+      <li>rainfall: <a href="https://github.com/Chaosum/42-rainfall">project's page on 42 website</a> 125/100</li>
       <li>ft_ssl_md5: <a href="https://projects.intra.42.fr/projects/42cursus-ft_ssl_md5">project's page on 42 website</a></li>
       <li>ft_malcolm: <a href="https://projects.intra.42.fr/projects/ft_malcolm">project's page on 42 website</a></li>
     </ul>
